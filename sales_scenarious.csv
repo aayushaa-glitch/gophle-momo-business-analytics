@@ -1,0 +1,5 @@
+Scenario,Customers_Per_Day,Average_Ticket,Operating_Days
+Low,30,11,26
+Medium,50,12,26
+High,100,12,26
+Festival Growth,150,14,10

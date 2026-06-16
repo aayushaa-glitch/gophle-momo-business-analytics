@@ -1,0 +1,6 @@
+Order_ID,Date,Item,Category,Quantity,Price,Cost,Customer_Type,Payment_Method
+1,2026-06-01,Chicken Steam Momo,Steam,2,9.99,4.25,Student,Card
+2,2026-06-01,Veg Chilly Momo,Chilly,1,10.99,4.50,Local,Cash
+3,2026-06-02,Chicken Cheese Momo,Cheese,3,10.99,5.10,Nepali Customer,Card
+4,2026-06-02,Chatpate,Side,2,5.99,1.75,Student,Apple Pay
+5,2026-06-03,Nepali Milk Tea,Drink,4,2.99,0.50,Family,Cash
